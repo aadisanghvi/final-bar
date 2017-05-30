@@ -32,7 +32,7 @@ function setup()
   endglassY = 535;
   stateofglass = 1;
 //startup canvas
-  canvas = 2;
+  canvas = 1;
 }
 
 function draw()
